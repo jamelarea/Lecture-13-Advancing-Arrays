@@ -31,3 +31,6 @@ SLIDE 4, Auto Keyword
             cout << letter;
         }
     }
+
+SLIDE 5, Input/Output Array
+
